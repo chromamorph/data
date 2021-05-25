@@ -1,0 +1,137 @@
+ERROR: No input file provided.
+
+OMNISIA HELP
+============
+
+Switches
+========
+
+-a	Basic algorithm to use. Possible values are: 
+	SIA, SIATEC, COSIATEC, SIATECCompress, Forth, RecurSIA.
+	Default is COSIATEC.
+
+-i	Path to input file (REQUIRED).
+
+-o	Path to output directory. Default is same
+	directory as input file.
+
+-d	If present, then use morphetic (diatonic)
+	pitch instead of chromatic pitch. If morphetic
+	pitch is not available in the input data (e.g.,
+	MIDI format), then input data is pitch-spelt using
+	the PS13s1 algorithm.
+
+-h	Help. If present, then this help screen to be printed.
+	This happens if the program is called with no arguments
+	or if it is unable to determine the values of all
+	necessary parameters from the arguments provided.
+
+-m	If present, generates output in MIREX format.
+
+-ct	If present, uses Collins' compactness trawler,
+	as used in his SIACT and SIARCT-CFP algorithms.
+
+-cta	The variable which Collins et al call 'a'. It is the minimum
+	compactness permitted in the trawled patterns.
+
+-ctb	The variable which Collins et al call 'b'. It is the minimum
+	size of the patterns trawled by the compactness trawler.
+
+-rsd	If present, limits SIA to r superdiagonals, as used in Collins'
+	SIAR algorithm. Number of superdiagonals determined by the -rswitch.
+
+-r	Number of superdiagonals to analyse if limited with -rsd switch.
+	Default value is 1.
+
+-rrt	If present, redundant translators are removed.
+
+-minc	Threshold value for minimum TEC compactness (default is 0.0).
+
+-min	Minimum allowed pattern size. Default is 0.
+
+-max	Maximum allowed pattern size. Default is 0, which means that
+	patterns of all sizes are allowed.
+
+-merge	If present, TECs are merged.
+
+-minm	Minimum match size if TECs are merged. Default value is 5.
+
+-spins	Number of iterations if TECs are merged. Default value is 10.
+
+-no10	If present, channel 10 (drum channel) is removed if input
+	is in MIDI format.
+
+-draw	If present, generates an image file containing a visualization
+	of the analysis.
+
+-crlow	Minimum compression ratio in Forth's algorithm. Default is 0.2.
+
+-crhi	Maximum compression ratio in Forth's algorithm. Default is 1.0.
+
+-comlow	Minimum compactness threshold in Forth's algorithm. Default is 0.2
+
+-comhi	Maximum compactness threshold in Forth's algorithm. Default is 1,0
+
+-cmin	c_min threshold in Forth's algorithm. Default is 15
+
+-sigmin	sigma_min threshold in Forth's algorithm. Default is 0.5.
+
+-bbcomp	If present, use bounding-box compactness in Forth's algorithm
+	instead of within-voice segment compactness.
+
+-nodate	If present, then does not append date to output directory names.
+
+-bbmode	If present, then uses BB mode when generating output in MIREX format.
+
+-segmode	If present, then uses Segment mode when generating output in MIREX format.
+
+-out	If present, overrides -o and prints a single output
+	encoding to the given path.
+
+-top	If present, limits output to top N patterns.
+
+-recalg	If RecurSIA is main algorithm used, then value of this switch
+	determines which basic algorithm is used on each pattern. Possible values are COSIATEC,
+	SIATECCompress or Forth.
+
+-sortpat	When using COSIATEC, getBestTEC sorts TECs
+	with preference given to TECs with larger patterns.
+
+
+Parameter values
+================
+Basic algorithm: (-a): COSIATEC
+Input file (-i): null
+Output directory (-o): null
+Morphetic (diatonic) pitch (-d): false
+MIREX (-m): false
+Compactness trawler (-ct): false
+Minimum compactness of trawled patterns (-cta): 0.67
+Minimum size of trawled patterns (-ctb): 3
+For r superdiagonals (-rsd): false
+r (-r): 1
+Remove redundant translators (-rrt): false
+Minimum TEC compactness (-minc): 0.0
+Minimum pattern size (-min): 0
+Maximum pattern size (-max): Unlimited
+Merge TECS (-merge): false
+Minimum match size if TECs are merged (-minm): 5
+Number of iterations if TECs are merged (-spins): 10
+Remove channel 10 (drum channel) in MIDI (-no10): false
+Help requested (-h): false
+Draw analysis (-draw): false
+Minimum compression ratio in Forth's algorithm (-crlow): 0.2
+Maximum compression ratio in Forth's algorithm (-crhi): 1.0
+Minimum compactness threshold in Forth's algorithm (-comlow): 0.2
+Maximum compactness threshold in Forth's algorithm (-comhi): 1.0
+c_min threshold in Forth's algorithm (-cmin): 15
+sigma_min threshold in Forth's algorithm (-sigmin): 0.5
+Using bounding-box compactness in Forth's algorithm (-bbcomp): false
+Appending date to output directories (-nodate) (N.B.: if true, then NO DATE APPENDED): false
+Using BB mode in MIREX output (-bbmode): false
+Using Segment mode in MIREX output (-segmode): false
+Output file (-out): null
+Top N Patterns (-top): 0
+Basic algorithm used by RecurSIA (-recalg): COSIATEC
+Sort TECs by decreasing pattern size (-sortpat): false
+

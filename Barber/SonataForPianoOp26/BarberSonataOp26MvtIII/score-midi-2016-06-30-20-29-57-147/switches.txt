@@ -1,0 +1,1 @@
+-i /Users/dave/Documents/Work/Research/2015-06-17-workspace-mars/BarberSonataOp26MvtIII/score.midi -a Forth -draw 
