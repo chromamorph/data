@@ -1,0 +1,53 @@
+OS(P(p(0.0,28.0),p(1.0,27.0),p(2.0,26.0),p(3.0,25.0)),[T(F_2STR,[-16.0, 184.0, -54.0, -1.0]), T(F_2STR,[-16.0, 992.0, -42.0, -1.0]), T(F_2STR,[-16.0, 1104.0, -54.0, -1.0]), T(F_2STR,[-16.0, 1440.0, -42.0, -1.0]), T(F_2STR,[-8.0, 552.0, -4.0, 1.0]), T(F_2STR,[-8.0, 824.0, -5.0, 1.0]), T(F_2STR,[-8.0, 832.0, -55.0, -1.0]), T(F_2STR,[-8.0, 864.0, -50.0, -1.0]), T(F_2STR,[-8.0, 872.0, -49.0, -1.0]), T(F_2STR,[-8.0, 880.0, -53.0, -1.0]), T(F_2STR,[-8.0, 960.0, -53.0, -1.0]), T(F_2STR,[-8.0, 1040.0, -46.0, -1.0]), T(F_2STR,[-8.0, 1048.0, -5.0, 1.0]), T(F_2STR,[-8.0, 1272.0, -5.0, 1.0]), T(F_2STR,[-8.0, 1280.0, -55.0, -1.0]), T(F_2STR,[-8.0, 1312.0, -50.0, -1.0]), T(F_2STR,[-8.0, 1320.0, -49.0, -1.0]), T(F_2STR,[-8.0, 1328.0, -53.0, -1.0]), T(F_2STR,[-8.0, 1408.0, -53.0, -1.0]), T(F_2STR,[-8.0, 1488.0, -46.0, -1.0]), T(F_2STR,[-8.0, 1496.0, -5.0, 1.0]), T(F_2STR,[-4.0, 24.0, -6.0, 1.0]), T(F_2STR,[-4.0, 88.0, -3.0, 1.0]), T(F_2STR,[-4.0, 328.0, -52.0, -1.0]), T(F_2STR,[-4.0, 580.0, -55.0, -1.0]), T(F_2STR,[-4.0, 584.0, -54.0, -1.0]), T(F_2STR,[-4.0, 696.0, 0.0, 1.0]), T(F_2STR,[-4.0, 796.0, -4.0, 1.0]), T(F_2STR,[-4.0, 800.0, -3.0, 1.0]), T(F_2STR,[-4.0, 1144.0, 0.0, 1.0]), T(F_2STR,[-4.0, 1244.0, -4.0, 1.0]), T(F_2STR,[-4.0, 1248.0, -3.0, 1.0]), T(F_2STR,[-1.0, 885.0, -1.0, 1.0]), T(F_2STR,[-1.0, 886.0, 0.0, 1.0]), T(F_2STR,[-1.0, 887.0, 1.0, 1.0]), T(F_2STR,[-1.0, 888.0, 2.0, 1.0]), T(F_2STR,[-1.0, 1333.0, -1.0, 1.0]), T(F_2STR,[-1.0, 1334.0, 0.0, 1.0]), T(F_2STR,[-1.0, 1335.0, 1.0, 1.0]), T(F_2STR,[-1.0, 1336.0, 2.0, 1.0]), T(F_2STR,[1.0, 882.0, -52.0, -1.0]), T(F_2STR,[1.0, 883.0, -53.0, -1.0]), T(F_2STR,[1.0, 884.0, -54.0, -1.0]), T(F_2STR,[1.0, 885.0, -55.0, -1.0]), T(F_2STR,[1.0, 1330.0, -52.0, -1.0]), T(F_2STR,[1.0, 1331.0, -53.0, -1.0]), T(F_2STR,[1.0, 1332.0, -54.0, -1.0]), T(F_2STR,[1.0, 1333.0, -55.0, -1.0]), T(F_2STR,[4.0, 12.0, -47.0, -1.0]), T(F_2STR,[4.0, 76.0, -50.0, -1.0]), T(F_2STR,[4.0, 316.0, -1.0, 1.0]), T(F_2STR,[4.0, 568.0, 2.0, 1.0]), T(F_2STR,[4.0, 572.0, 1.0, 1.0]), T(F_2STR,[4.0, 684.0, -53.0, -1.0]), T(F_2STR,[4.0, 784.0, -49.0, -1.0]), T(F_2STR,[4.0, 788.0, -50.0, -1.0]), T(F_2STR,[4.0, 1132.0, -53.0, -1.0]), T(F_2STR,[4.0, 1232.0, -49.0, -1.0]), T(F_2STR,[4.0, 1236.0, -50.0, -1.0]), T(F_2STR,[8.0, 528.0, -49.0, -1.0]), T(F_2STR,[8.0, 800.0, -48.0, -1.0]), T(F_2STR,[8.0, 808.0, 2.0, 1.0]), T(F_2STR,[8.0, 840.0, -3.0, 1.0]), T(F_2STR,[8.0, 848.0, -4.0, 1.0]), T(F_2STR,[8.0, 856.0, 0.0, 1.0]), T(F_2STR,[8.0, 936.0, 0.0, 1.0]), T(F_2STR,[8.0, 1016.0, -7.0, 1.0]), T(F_2STR,[8.0, 1024.0, -48.0, -1.0]), T(F_2STR,[8.0, 1248.0, -48.0, -1.0]), T(F_2STR,[8.0, 1256.0, 2.0, 1.0]), T(F_2STR,[8.0, 1288.0, -3.0, 1.0]), T(F_2STR,[8.0, 1296.0, -4.0, 1.0]), T(F_2STR,[8.0, 1304.0, 0.0, 1.0]), T(F_2STR,[8.0, 1384.0, 0.0, 1.0]), T(F_2STR,[8.0, 1464.0, -7.0, 1.0]), T(F_2STR,[8.0, 1472.0, -48.0, -1.0]), T(F_2STR,[16.0, 136.0, 1.0, 1.0]), T(F_2STR,[16.0, 944.0, -11.0, 1.0]), T(F_2STR,[16.0, 1056.0, 1.0, 1.0]), T(F_2STR,[16.0, 1392.0, -11.0, 1.0])],null)
+
+
+Coverage: 129
+Dataset size: 695
+Uncompressed length: 258
+Encoding length: 328
+Compression factor: 0.7865853658536586
+Running time in milliseconds: 2599
+Encoding length without residual point set: 328
+Number of residual points: 0
+Percentage of residual points: 0.00%
+Compression factor without residual point set: 0.7865853658536586
+Number of occurrence sets: 1
+
+
+
+Log:
+              0 ms              0 ms  computeMaximalTransformablePatterns starts
+           2346 ms           2346 ms  computeMaximalTransformablePatterns ends
+           2349 ms              3 ms  computeSizeMTPSetArray ends
+           2352 ms              3 ms  mergeMTPs ends
+           2353 ms              1 ms  computeSuperMTPs ends
+           2353 ms              0 ms  computeHeterogeneousOccurrenceSets ends
+           2463 ms            110 ms  removeDuplicateOccurrenceSets ends
+           2463 ms              0 ms  removeRedundantTransformations ends
+           2597 ms            134 ms  removeOccurrenceSetsWithEmptyTransformationSets ends
+           2597 ms              0 ms  removeOccurrenceSetsWithEmptyTransformationSets ends
+           2597 ms              0 ms  computeSortedOccurrenceSets ends
+           2599 ms              2 ms  computeEncoding ends
+           2599 ms              0 ms  Program ends
+
+
+Number of points: 695
+Number of OSs after removal: 1
+
+
+Parameter settings:
+===================Input file path (-i): /Users/susanne/Repos/data/lachrimae/Morley_i_saw_my_lady_weeping.OPND
+Query file path (-q): /Users/susanne/Repos/data/lachrimae/fallingfourth.opnd
+Ground-truth file path (-gt): null
+Mid-time point (-mt): false
+Output directory (-o): /Users/susanne/Repos/data/lachrimae/output
+Minimum pattern size (-min): 4
+Minimum occurrence set compactness (-minc): 0.0
+Minimum occurrence compactness (-minoc): 0.6
+Morphetic pitch (-d): true
+Transformation classes (-tc): {TC(3,F_2STR)}
+Dimension mask (-dm): 1100
+Use ScaleXIA (-scal): false
+Draw patterns (-draw): true
+Draw ground truth (-drawgt): false
+

@@ -1,0 +1,84 @@
+-i "/Users/susanne/Repos/omnisia/MaxTranPatsJava/data/DieKunstDerFuge/ContrapunctusVI/ContrapunctusVIMutopia.mid" -o "/Users/susanne/Repos/omnisia/MaxTranPatsJava/output/DieKunstDerFuge/ContrapunctusVI" -minSize 9 -minComp .5 minOccComp .5 -q "/Users/susanne/Repos/omnisia/MaxTranPatsJava/data/DieKunstDerFuge/ContrapunctusVI/ContrapunctusVISubject.opnd"
+
+
+
+-i "/Users/susanne/Repos/omnisia/MaxTranPatsJava/data/DieKunstDerFuge/ContrapunctusVI/ContrapunctusVIMutopia.mid" -o "/Users/susanne/Repos/omnisia/MaxTranPatsJava/output/DieKunstDerFuge/ContrapunctusVI" -minSize 9 -q "/Users/susanne/Repos/omnisia/MaxTranPatsJava/data/DieKunstDerFuge/ContrapunctusVI/ContrapunctusVISubject.opnd" F_2STR
+
+
+contrapunctusvisubject.opnd
+              0 ms              0 ms  computeMaximalTransformablePatterns starts
+basisSize = 2
+numObjectBases = 91
+numImageBases = 1385280 
+numPerms = 2
+numComputations = 252120960
+         193017 ms         193017 ms  computeMaximalTransformablePatterns ends
+         193019 ms              2 ms  computeSizeMTPSetArray ends
+
+After running merge_mtps:
+mtp_sizes: 9 13 14 
+
+Num occurrence sets of each size
+9 : 1
+13 : 1
+14 : 1
+         193021 ms              2 ms  mergeMTPs ends
+         193024 ms              3 ms  computeSuperMTPs ends
+         193024 ms              0 ms  computeHeterogeneousOccurrenceSets ends
+Number of occurrence sets at beginning of removeDuplicateOccurrenceSets is 3
+Number of occurrence sets at end of removeDuplicateOccurrenceSets is 3
+         204329 ms          11305 ms  removeDuplicateOccurrenceSets ends
+         204330 ms              1 ms  removeRedundantTransformations ends
+Number of occurrence sets at beginning of remove_occurrence_sets_without_transformations is 3
+Number of occurrence sets at end of remove_occurrence_sets_without_transformations is 3
+         204330 ms              0 ms  removeOccurrenceSetsWithEmptyTransformationSets ends
+Number of occurrence sets at beginning of remove_occurrence_sets_without_transformations is 3
+Number of occurrence sets at end of remove_occurrence_sets_without_transformations is 3
+         204333 ms              3 ms  removeOccurrenceSetsWithEmptyTransformationSets ends
+         204333 ms              0 ms  computeSortedOccurrenceSets ends
+         204334 ms              1 ms  computeEncoding ends
+         204334 ms              0 ms  Program ends
+
+
+Output file: /Users/susanne/Repos/omnisia/MaxTranPatsJava/output/DieKunstDerFuge/ContrapunctusVI/ContrapunctusVISubject-opnd-ContrapunctusVIMutopia-mid-F_2STR-2024-06-18-15-44-17-268/ContrapunctusVISubject-ContrapunctusVIMutopia.mtm
+Encoding:
+OS(P(p(8.0,17.0),p(22.0,21.0),p(30.0,20.0),p(38.0,19.0),p(46.0,18.0),p(56.0,17.0),p(72.0,16.0),p(86.0,17.0),p(94.0,18.0),p(107.0,19.0),p(119.0,20.0),p(123.0,19.0),p(127.0,18.0),p(131.0,17.0)),[T(F_2STR,[2.0, 0.0, 0.0, 1.0]), T(F_2STR,[2.0, 1920.0, 0.0, 1.0])],null)
+OS(P(p(8.0,17.0),p(22.0,21.0),p(30.0,20.0),p(38.0,19.0),p(46.0,18.0),p(56.0,17.0),p(72.0,16.0),p(86.0,17.0),p(94.0,18.0),p(107.0,19.0),p(119.0,20.0),p(123.0,19.0),p(127.0,18.0)),[T(F_2STR,[2.0, 448.0, 11.0, 1.0]), T(F_2STR,[2.0, 960.0, 7.0, 1.0]), T(F_2STR,[2.0, 1248.0, -40.0, -1.0]), T(F_2STR,[2.0, 1536.0, 9.0, 1.0]), T(F_2STR,[2.0, 2176.0, -48.0, -1.0]), T(F_2STR,[2.0, 2944.0, -31.0, -1.0]), T(F_2STR,[2.0, 3648.0, -45.0, -1.0]), T(F_2STR,[2.0, 4064.0, -45.0, -1.0]), T(F_2STR,[2.0, 4768.0, -48.0, -1.0])],null)
+OS(P(p(8.0,17.0),p(22.0,21.0),p(30.0,20.0),p(38.0,19.0),p(46.0,18.0),p(56.0,17.0),p(72.0,16.0),p(86.0,17.0),p(94.0,18.0)),[T(F_2STR,[1.0, 64.0, -52.0, -1.0]), T(F_2STR,[1.0, 160.0, 7.0, 1.0]), T(F_2STR,[1.0, 896.0, -38.0, -1.0]), T(F_2STR,[1.0, 2240.0, -4.0, 1.0]), T(F_2STR,[1.0, 2336.0, -41.0, -1.0]), T(F_2STR,[1.0, 2624.0, -43.0, -1.0]), T(F_2STR,[1.0, 3008.0, 0.0, 1.0]), T(F_2STR,[1.0, 4000.0, 2.0, 1.0])],null)
+
+
+Coverage: 231
+Dataset size: 1665
+Uncompressed length: 462
+Encoding length: 148
+Compression factor: 3.1216216216216215
+Running time in milliseconds: 204334
+Encoding length without residual point set: 148
+Number of residual points: 0
+Percentage of residual points: 0.00%
+Compression factor without residual point set: 3.1216216216216215
+Number of occurrence sets: 3
+
+Warning: the fonts "Times" and "Times" are not available for the Java logical font "Serif", which may have unexpected appearance or behavior. Re-enable the "Times" font to remove this warning.
+EXECUTING drawAllOccurrenceSetsAtOnce
+
+Output image file: /Users/susanne/Repos/omnisia/MaxTranPatsJava/output/DieKunstDerFuge/ContrapunctusVI/ContrapunctusVISubject-opnd-ContrapunctusVIMutopia-mid-F_2STR-2024-06-18-15-44-17-268/ContrapunctusVISubject-ContrapunctusVIMutopia.png
+
+================================
+
+In MML-2024 code:
+
+numImageBases = 1205128
+
+pattern.size() is 14
+size of point set is 1553
+
+Changed dimension mask to 1100:
+basisSize = 2
+numObjectBases = 91
+numImageBases = 1383616
+numPerms = 2
+numComputations = 251818112
+
+numImageBases is more similar to master version, but still different!
+
