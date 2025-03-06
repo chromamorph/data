@@ -1,0 +1,53 @@
+OS(P(p(0.0,28.0),p(1.0,27.0),p(2.0,26.0),p(3.0,25.0)),[T(F_2STR,[-4.0, 46.0, -43.0, -1.0]), T(F_2STR,[-2.0, 156.0, -48.0, -1.0]), T(F_2STR,[-2.0, 156.0, -43.0, -1.0]), T(F_2STR,[-2.0, 300.0, -43.0, -1.0]), T(F_2STR,[2.0, 150.0, -10.0, 1.0]), T(F_2STR,[2.0, 150.0, -5.0, 1.0]), T(F_2STR,[2.0, 294.0, -10.0, 1.0]), T(F_2STR,[4.0, 34.0, -10.0, 1.0])],null)
+
+
+Coverage: 20
+Dataset size: 246
+Uncompressed length: 40
+Encoding length: 40
+Compression factor: 1.0
+Running time in milliseconds: 978
+Encoding length without residual point set: 40
+Number of residual points: 0
+Percentage of residual points: 0.00%
+Compression factor without residual point set: 1.0
+Number of occurrence sets: 1
+
+
+
+Log:
+              0 ms              0 ms  computeMaximalTransformablePatterns starts
+            920 ms            920 ms  computeMaximalTransformablePatterns ends
+            921 ms              1 ms  computeSizeMTPSetArray ends
+            924 ms              3 ms  mergeMTPs ends
+            925 ms              1 ms  computeSuperMTPs ends
+            925 ms              0 ms  computeHeterogeneousOccurrenceSets ends
+            968 ms             43 ms  removeDuplicateOccurrenceSets ends
+            968 ms              0 ms  removeRedundantTransformations ends
+            977 ms              9 ms  removeOccurrenceSetsWithEmptyTransformationSets ends
+            977 ms              0 ms  removeOccurrenceSetsWithEmptyTransformationSets ends
+            977 ms              0 ms  computeSortedOccurrenceSets ends
+            978 ms              1 ms  computeEncoding ends
+            978 ms              0 ms  Program ends
+
+
+Number of points: 246
+Number of OSs after removal: 1
+
+
+Parameter settings:
+===================Input file path (-i): /Users/susanne/Repos/data/lachrimae/LAmant_Malheureux.OPND
+Query file path (-q): /Users/susanne/Repos/data/lachrimae/fallingfourth.opnd
+Ground-truth file path (-gt): null
+Mid-time point (-mt): false
+Output directory (-o): /Users/susanne/Repos/data/lachrimae
+Minimum pattern size (-min): 4
+Minimum occurrence set compactness (-minc): 0.0
+Minimum occurrence compactness (-minoc): 0.8
+Morphetic pitch (-d): true
+Transformation classes (-tc): {TC(3,F_2STR)}
+Dimension mask (-dm): 1100
+Use ScaleXIA (-scal): false
+Draw patterns (-draw): true
+Draw ground truth (-drawgt): false
+

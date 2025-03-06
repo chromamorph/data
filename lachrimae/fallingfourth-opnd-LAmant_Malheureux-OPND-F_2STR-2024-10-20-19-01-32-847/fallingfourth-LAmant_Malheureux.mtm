@@ -1,0 +1,55 @@
+OS(P(p(0.0,28.0),p(1.0,27.0),p(2.0,26.0),p(3.0,25.0)),[T(F_2STR,[-2.0, 156.0, -48.0, -1.0]), T(F_2STR,[-2.0, 156.0, -43.0, -1.0]), T(F_2STR,[-2.0, 300.0, -43.0, -1.0]), T(F_2STR,[2.0, 150.0, -10.0, 1.0]), T(F_2STR,[2.0, 150.0, -5.0, 1.0]), T(F_2STR,[2.0, 294.0, -10.0, 1.0])],null)
+OS(P(p(0.0,28.0),p(1.0,27.0),p(2.0,26.0)),[T(F_2STR,[-8.0, 264.0, -39.0, -1.0]), T(F_2STR,[-4.0, 20.0, -6.0, 1.0]), T(F_2STR,[-4.0, 46.0, -43.0, -1.0]), T(F_2STR,[-4.0, 80.0, -41.0, -1.0]), T(F_2STR,[-4.0, 96.0, -38.0, -1.0]), T(F_2STR,[-4.0, 120.0, -17.0, 1.0]), T(F_2STR,[-4.0, 200.0, -46.0, -1.0]), T(F_2STR,[-4.0, 200.0, -37.0, -1.0]), T(F_2STR,[-2.0, 12.0, -48.0, -1.0]), T(F_2STR,[-2.0, 16.0, -51.0, -1.0]), T(F_2STR,[-2.0, 126.0, -6.0, 1.0]), T(F_2STR,[-2.0, 160.0, -6.0, 1.0]), T(F_2STR,[-2.0, 168.0, -12.0, 1.0]), T(F_2STR,[-2.0, 172.0, -48.0, -1.0]), T(F_2STR,[-2.0, 280.0, -49.0, -1.0]), T(F_2STR,[-2.0, 288.0, -48.0, -1.0]), T(F_2STR,[-2.0, 298.0, -49.0, -1.0]), T(F_2STR,[-1.0, 220.0, -47.0, -1.0]), T(F_2STR,[1.0, 218.0, -7.0, 1.0]), T(F_2STR,[2.0, 8.0, -6.0, 1.0]), T(F_2STR,[2.0, 12.0, -3.0, 1.0]), T(F_2STR,[2.0, 122.0, -48.0, -1.0]), T(F_2STR,[2.0, 156.0, -48.0, -1.0]), T(F_2STR,[2.0, 164.0, -42.0, -1.0]), T(F_2STR,[2.0, 168.0, -6.0, 1.0]), T(F_2STR,[2.0, 276.0, -5.0, 1.0]), T(F_2STR,[2.0, 284.0, -6.0, 1.0]), T(F_2STR,[2.0, 294.0, -5.0, 1.0]), T(F_2STR,[4.0, 12.0, -48.0, -1.0]), T(F_2STR,[4.0, 38.0, -11.0, 1.0]), T(F_2STR,[4.0, 72.0, -13.0, 1.0]), T(F_2STR,[4.0, 88.0, -16.0, 1.0]), T(F_2STR,[4.0, 112.0, -37.0, -1.0]), T(F_2STR,[4.0, 192.0, -17.0, 1.0]), T(F_2STR,[4.0, 192.0, -8.0, 1.0]), T(F_2STR,[8.0, 248.0, -15.0, 1.0])],null)
+OS(P(p(0.0,28.0),p(1.0,27.0),p(3.0,25.0)),[T(F_2STR,[1.0, 79.0, -5.0, 1.0]), T(F_2STR,[2.0, 94.0, -51.0, -1.0])],null)
+
+
+Coverage: 74
+Dataset size: 246
+Uncompressed length: 148
+Encoding length: 196
+Compression factor: 0.7551020408163265
+Running time in milliseconds: 1135
+Encoding length without residual point set: 196
+Number of residual points: 0
+Percentage of residual points: 0.00%
+Compression factor without residual point set: 0.7551020408163265
+Number of occurrence sets: 3
+
+
+
+Log:
+              0 ms              0 ms  computeMaximalTransformablePatterns starts
+            917 ms            917 ms  computeMaximalTransformablePatterns ends
+            926 ms              9 ms  computeSizeMTPSetArray ends
+            932 ms              6 ms  mergeMTPs ends
+            934 ms              2 ms  computeSuperMTPs ends
+            935 ms              1 ms  computeHeterogeneousOccurrenceSets ends
+           1020 ms             85 ms  removeDuplicateOccurrenceSets ends
+           1020 ms              0 ms  removeRedundantTransformations ends
+           1133 ms            113 ms  removeOccurrenceSetsWithEmptyTransformationSets ends
+           1134 ms              1 ms  removeOccurrenceSetsWithEmptyTransformationSets ends
+           1134 ms              0 ms  computeSortedOccurrenceSets ends
+           1135 ms              1 ms  computeEncoding ends
+           1135 ms              0 ms  Program ends
+
+
+Number of points: 246
+Number of OSs after removal: 3
+
+
+Parameter settings:
+===================Input file path (-i): /Users/susanne/Repos/data/lachrimae/LAmant_Malheureux.OPND
+Query file path (-q): /Users/susanne/Repos/data/lachrimae/fallingfourth.opnd
+Ground-truth file path (-gt): null
+Mid-time point (-mt): false
+Output directory (-o): /Users/susanne/Repos/data/lachrimae
+Minimum pattern size (-min): 3
+Minimum occurrence set compactness (-minc): 0.0
+Minimum occurrence compactness (-minoc): 1.0
+Morphetic pitch (-d): true
+Transformation classes (-tc): {TC(3,F_2STR)}
+Dimension mask (-dm): 1100
+Use ScaleXIA (-scal): false
+Draw patterns (-draw): true
+Draw ground truth (-drawgt): false
+

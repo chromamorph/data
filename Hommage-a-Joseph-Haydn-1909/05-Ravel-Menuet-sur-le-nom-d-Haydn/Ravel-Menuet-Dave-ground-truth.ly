@@ -23,8 +23,6 @@ colorSoucyHaydnRetroInv = {
 	\override Glissando.thickness = 3
 }
 
-
-
 colorSoucyHaydnRetro = {
 	\override NoteHead.color = #(x11-color 'DarkRed)
 	\override Stem.color = #(x11-color 'DarkRed)
@@ -35,7 +33,6 @@ colorSoucyHaydnRetro = {
 	\override Glissando.style = #'dashed-line
 	\override Glissando.thickness = 3
 }
-
 
 colorSoucyOneOverAlpha = {
 	\override NoteHead.color = #(x11-color 'BlueViolet)
@@ -713,37 +710,37 @@ barOneToThirtySevenLower =  {
 		\override Glissando.breakable = ##t
 		\override Glissando.after-line-breaking = ##t
 		%bar 26-28
-		\colorSoucyHaydn
-		d'2.\glissando_\markup \with-color "red" \box "15"
-		cis~ cis\glissando
+		%\colorSoucyHaydn
+		d'2.%\glissando_\markup \with-color "red" \box "15"
+		cis~ cis%\glissando
 		%bar 29-32
 		\clef bass
 		s2. s2.
 		s2. s2. 
-		\colorRevert
+		%\colorRevert
 		
 		 %bar 33-34
-	    \colorSoucyHaydn
-    	fis,,~ | 2.\glissando
-    	\colorRevert
+	    %\colorSoucyHaydn
+    	fis,,~ | 2.%\glissando
+ 		%\colorRevert
 		
 		%bar 35
-   		\colorSoucyHaydn
+   		%\colorSoucyHaydn
     	fis~ 
-    	\colorRevert
+    	%\colorRevert
 
 		%bar 36
 		%\colorSoucyOneOverAlpha
-		\override Tie.color = #(x11-color 'red)
+		%\override Tie.color = #(x11-color 'red)
 	
 		2.~ 
 		%\colorRevert
 
 		%bar 37-43
-		\colorSoucyHaydn
-		2.\glissando
+		%\colorSoucyHaydn
+		2.%\glissando
 		b,2.~ 2.~ 4. 
-		\colorRevert
+		%\colorRevert
 		b4.~ 2.~ 4. b4.~ 2.
    
 	}
