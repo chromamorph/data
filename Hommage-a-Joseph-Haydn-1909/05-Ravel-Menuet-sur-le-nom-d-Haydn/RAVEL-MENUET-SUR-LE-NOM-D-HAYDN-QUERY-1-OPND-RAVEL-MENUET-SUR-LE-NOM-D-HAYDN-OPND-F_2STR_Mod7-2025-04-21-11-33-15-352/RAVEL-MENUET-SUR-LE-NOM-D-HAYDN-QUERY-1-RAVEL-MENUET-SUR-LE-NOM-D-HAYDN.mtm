@@ -1,0 +1,60 @@
+OS(P(p(0,1),p(4,0),p(6,3),p(8,3),p(10,6)),[T(F_2STR_Mod7,[0.0, 54.0, 2.0, 1.0]), T(F_2STR_Mod7,[0.0, 66.0, 2.0, 1.0]), T(F_2STR_Mod7,[0.0, 150.0, 2.0, 1.0]), T(F_2STR_Mod7,[0.0, 162.0, 2.0, 1.0]), T(F_2STR_Mod7,[0.0, 484.0, 3.0, 1.0]), T(F_2STR_Mod7,[0.0, 558.0, 3.0, -1.0]), T(F_2STR_Mod7,[0.0, 558.0, 4.0, 1.0]), T(F_2STR_Mod7,[0.0, 558.0, 5.0, 1.0]), T(F_2STR_Mod7,[0.0, 570.0, 3.0, -1.0]), T(F_2STR_Mod7,[0.0, 570.0, 4.0, 1.0]), T(F_2STR_Mod7,[0.0, 570.0, 5.0, 1.0])],null)
+OS(P(p(0,1),p(4,0),p(6,3),p(8,3)),[T(F_2STR_Mod7,[0.0, 10.0, 0.0, 1.0]), T(F_2STR_Mod7,[0.0, 58.0, 1.0, 1.0]), T(F_2STR_Mod7,[0.0, 70.0, 1.0, 1.0]), T(F_2STR_Mod7,[0.0, 78.0, 1.0, -1.0]), T(F_2STR_Mod7,[0.0, 100.0, 1.0, 1.0]), T(F_2STR_Mod7,[0.0, 106.0, 0.0, 1.0]), T(F_2STR_Mod7,[0.0, 154.0, 1.0, 1.0]), T(F_2STR_Mod7,[0.0, 166.0, 1.0, 1.0]), T(F_2STR_Mod7,[0.0, 174.0, 1.0, -1.0]), T(F_2STR_Mod7,[0.0, 394.0, 0.0, -1.0]), T(F_2STR_Mod7,[0.0, 478.0, 2.0, 1.0]), T(F_2STR_Mod7,[0.0, 478.0, 4.0, -1.0]), T(F_2STR_Mod7,[0.0, 490.0, 0.0, 1.0]), T(F_2STR_Mod7,[0.0, 490.0, 3.0, -1.0]), T(F_2STR_Mod7,[0.0, 502.0, 2.0, 1.0]), T(F_2STR_Mod7,[0.0, 502.0, 4.0, -1.0]), T(F_2STR_Mod7,[0.0, 508.0, 0.0, 1.0]), T(F_2STR_Mod7,[0.0, 518.0, 2.0, 1.0]), T(F_2STR_Mod7,[0.0, 558.0, 0.0, 1.0]), T(F_2STR_Mod7,[0.0, 570.0, 0.0, 1.0]), T(F_2STR_Mod7,[2.0, 192.0, 0.0, 1.0])],null)
+OS(P(p(0,1),p(6,3),p(8,3),p(10,6)),[T(F_2STR_Mod7,[0.0, 6.0, 1.0, 1.0]), T(F_2STR_Mod7,[0.0, 6.0, 2.0, -1.0]), T(F_2STR_Mod7,[0.0, 6.0, 3.0, 1.0]), T(F_2STR_Mod7,[0.0, 6.0, 4.0, -1.0]), T(F_2STR_Mod7,[0.0, 10.0, 2.0, 1.0]), T(F_2STR_Mod7,[0.0, 10.0, 3.0, -1.0]), T(F_2STR_Mod7,[0.0, 20.0, 0.0, -1.0]), T(F_2STR_Mod7,[0.0, 20.0, 5.0, 1.0]), T(F_2STR_Mod7,[0.0, 32.0, 2.0, -1.0]), T(F_2STR_Mod7,[0.0, 32.0, 3.0, 1.0]), T(F_2STR_Mod7,[0.0, 44.0, 0.0, 1.0]), T(F_2STR_Mod7,[0.0, 44.0, 5.0, -1.0]), T(F_2STR_Mod7,[0.0, 84.0, 0.0, -1.0]), T(F_2STR_Mod7,[0.0, 84.0, 5.0, 1.0]), T(F_2STR_Mod7,[0.0, 92.0, 1.0, -1.0]), T(F_2STR_Mod7,[0.0, 92.0, 4.0, 1.0]), T(F_2STR_Mod7,[0.0, 100.0, 2.0, -1.0]), T(F_2STR_Mod7,[0.0, 100.0, 3.0, 1.0]), T(F_2STR_Mod7,[0.0, 106.0, 2.0, 1.0]), T(F_2STR_Mod7,[0.0, 106.0, 3.0, -1.0]), T(F_2STR_Mod7,[0.0, 116.0, 0.0, -1.0]), T(F_2STR_Mod7,[0.0, 116.0, 5.0, 1.0]), T(F_2STR_Mod7,[0.0, 128.0, 2.0, -1.0]), T(F_2STR_Mod7,[0.0, 128.0, 3.0, 1.0]), T(F_2STR_Mod7,[0.0, 140.0, 0.0, 1.0]), T(F_2STR_Mod7,[0.0, 140.0, 5.0, -1.0]), T(F_2STR_Mod7,[0.0, 180.0, 0.0, -1.0]), T(F_2STR_Mod7,[0.0, 180.0, 5.0, 1.0]), T(F_2STR_Mod7,[0.0, 188.0, 1.0, -1.0]), T(F_2STR_Mod7,[0.0, 188.0, 4.0, 1.0]), T(F_2STR_Mod7,[0.0, 343.0, 0.0, 1.0]), T(F_2STR_Mod7,[0.0, 343.0, 5.0, -1.0]), T(F_2STR_Mod7,[0.0, 355.0, 0.0, 1.0]), T(F_2STR_Mod7,[0.0, 355.0, 5.0, -1.0]), T(F_2STR_Mod7,[0.0, 430.0, 6.0, -1.0]), T(F_2STR_Mod7,[0.0, 430.0, 6.0, 1.0]), T(F_2STR_Mod7,[0.0, 460.0, 1.0, -1.0]), T(F_2STR_Mod7,[0.0, 460.0, 4.0, 1.0]), T(F_2STR_Mod7,[0.0, 466.0, 1.0, 1.0]), T(F_2STR_Mod7,[0.0, 466.0, 2.0, -1.0]), T(F_2STR_Mod7,[0.0, 466.0, 3.0, 1.0]), T(F_2STR_Mod7,[0.0, 466.0, 4.0, -1.0]), T(F_2STR_Mod7,[0.0, 472.0, 0.0, -1.0]), T(F_2STR_Mod7,[0.0, 472.0, 5.0, 1.0]), T(F_2STR_Mod7,[0.0, 508.0, 2.0, 1.0]), T(F_2STR_Mod7,[0.0, 508.0, 3.0, -1.0]), T(F_2STR_Mod7,[0.0, 514.0, 1.0, 1.0]), T(F_2STR_Mod7,[0.0, 514.0, 2.0, -1.0]), T(F_2STR_Mod7,[0.0, 514.0, 3.0, 1.0]), T(F_2STR_Mod7,[0.0, 514.0, 4.0, -1.0]), T(F_2STR_Mod7,[0.0, 562.0, 0.0, 1.0]), T(F_2STR_Mod7,[0.0, 562.0, 5.0, -1.0]), T(F_2STR_Mod7,[0.0, 574.0, 0.0, 1.0]), T(F_2STR_Mod7,[0.0, 574.0, 5.0, -1.0]), T(F_2STR_Mod7,[0.0, 578.0, 2.0, -1.0]), T(F_2STR_Mod7,[0.0, 578.0, 3.0, 1.0]), T(F_2STR_Mod7,[0.0, 614.0, 1.0, 1.0]), T(F_2STR_Mod7,[0.0, 614.0, 4.0, -1.0])],null)
+OS(P(p(4,0),p(6,3),p(8,3),p(10,6)),[T(F_2STR_Mod7,[0.0, 82.0, 0.0, -1.0]), T(F_2STR_Mod7,[0.0, 82.0, 1.0, 1.0]), T(F_2STR_Mod7,[0.0, 178.0, 0.0, -1.0]), T(F_2STR_Mod7,[0.0, 178.0, 1.0, 1.0]), T(F_2STR_Mod7,[0.0, 230.0, 4.0, -1.0]), T(F_2STR_Mod7,[0.0, 230.0, 4.0, 1.0]), T(F_2STR_Mod7,[0.0, 242.0, 0.0, -1.0]), T(F_2STR_Mod7,[0.0, 242.0, 1.0, 1.0]), T(F_2STR_Mod7,[0.0, 286.0, 3.0, -1.0]), T(F_2STR_Mod7,[0.0, 286.0, 5.0, 1.0])],null)
+
+
+Coverage: 177
+Dataset size: 506
+Uncompressed length: 354
+Encoding length: 434
+Compression factor: 0.815668202764977
+Running time in milliseconds: 4413
+Encoding length without residual point set: 434
+Number of residual points: 0
+Percentage of residual points: 0.00%
+Compression factor without residual point set: 0.815668202764977
+Number of occurrence sets: 4
+
+
+
+Log:
+              0 ms              0 ms  computeMaximalTransformablePatterns starts
+           3787 ms           3787 ms  computeMaximalTransformablePatterns ends
+           3797 ms             10 ms  computeSizeMTPSetArray ends
+           3805 ms              8 ms  mergeMTPs ends
+           3807 ms              2 ms  computeSuperMTPs ends
+           3808 ms              1 ms  computeHeterogeneousOccurrenceSets ends
+           4235 ms            427 ms  removeDuplicateOccurrenceSets ends
+           4235 ms              0 ms  removeRedundantTransformations ends
+           4409 ms            174 ms  removeOccurrenceSetsWithEmptyTransformationSets ends
+           4412 ms              3 ms  removeOccurrenceSetsWithEmptyTransformationSets ends
+           4412 ms              0 ms  computeSortedOccurrenceSets ends
+           4413 ms              1 ms  computeEncoding ends
+           4413 ms              0 ms  Program ends
+
+
+Number of points: 506
+Number of OSs after removal: 4
+
+
+Parameter settings:
+===================
+Input file path (-i): /Users/susanne/Repos/data/Hommage-a-Joseph-Haydn-1909/05-Ravel-Menuet-sur-le-nom-d-Haydn/RAVEL-MENUET-SUR-LE-NOM-D-HAYDN.OPND
+Query file path (-q): /Users/susanne/Repos/data/Hommage-a-Joseph-Haydn-1909/05-Ravel-Menuet-sur-le-nom-d-Haydn/RAVEL-MENUET-SUR-LE-NOM-D-HAYDN-QUERY-1.OPND
+Ground-truth file path (-gt): null
+Mid-time point (-mt): true
+Output directory (-o): /Users/susanne/Repos/data/Hommage-a-Joseph-Haydn-1909/05-Ravel-Menuet-sur-le-nom-d-Haydn
+Minimum pattern size (-min): 4
+Minimum occurrence set compactness (-minc): 0.0
+Minimum occurrence compactness (-minoc): 0.8
+Morphetic pitch (-d): false
+Transformation classes (-tc): {TC(6,F_2STR_Mod7)}
+Dimension mask (-dm): 1100
+Use ScaleXIA (-scal): false
+Draw patterns (-draw): true
+Draw ground truth (-drawgt): false
+Draw bounding boxes around patterns (-drawbb): false
+Use chroma (-c): false
+Use morph (-m): true
+

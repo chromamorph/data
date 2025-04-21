@@ -1,0 +1,63 @@
+OS(P(p(0.0,17.0),p(16.0,21.0),p(28.0,20.0),p(32.0,19.0),p(44.0,18.0),p(48.0,17.0),p(64.0,16.0),p(80.0,17.0),p(92.0,18.0),p(96.0,19.0),p(120.0,19.0),p(128.0,17.0)),[T(F_2STR,[0.5, 32.0, -52.0, -1.0]), T(F_2STR,[0.5, 80.0, 7.0, 1.0]), T(F_2STR,[0.5, 304.0, 11.0, 1.0]), T(F_2STR,[1.0, 224.0, 11.0, 1.0])],null)
+OS(P(p(40.0,31.0),p(46.0,32.0),p(48.0,33.0),p(78.0,34.0),p(80.0,33.0),p(90.0,32.0),p(92.0,33.0),p(94.0,34.0),p(96.0,35.0)),[T(F_2STR,[1.0, 48.0, -59.0, -1.0]), T(F_2STR,[1.0, 160.0, -10.0, 1.0]), T(F_2STR,[1.0, 272.0, -63.0, -1.0]), T(F_2STR,[1.0, 280.0, -52.0, -1.0])],null)
+OS(P(p(136.0,11.0),p(142.0,12.0),p(144.0,13.0),p(158.0,12.0),p(160.0,11.0)),[T(F_2STR,[-1.0, 374.0, 18.0, 1.0]), T(F_2STR,[1.0, -64.0, -46.0, -1.0]), T(F_2STR,[1.0, -16.0, 13.0, 1.0]), T(F_2STR,[1.0, 16.0, 19.0, 1.0]), T(F_2STR,[1.0, 32.0, 8.0, 1.0]), T(F_2STR,[1.0, 96.0, -36.0, -1.0]), T(F_2STR,[1.0, 208.0, 17.0, 1.0])],null)
+OS(P(p(184.0,21.0),p(190.0,20.0),p(208.0,23.0),p(238.0,24.0),p(310.0,18.0),p(328.0,19.0),p(328.0,28.0)),[T(F_2STR,[-0.3333333333333333, 381.3333333333333, 0.0, 1.0]), T(F_2STR,[-0.3333333333333333, 413.3333333333333, 0.0, 1.0]), T(F_2STR,[0.3333333333333333, 144.66666666666666, -52.0, -1.0])],null)
+OS(P(p(96.0,26.0),p(102.0,25.0),p(106.0,32.0),p(108.0,31.0),p(120.0,24.0),p(126.0,18.0),p(128.0,17.0)),[T(F_2STR,[4.0, -226.0, 0.0, 1.0]), T(F_2STR,[4.0, -224.0, 1.0, 1.0])],null)
+OS(P(p(64.0,16.0),p(144.0,24.0),p(184.0,26.0),p(184.0,31.0),p(214.0,24.0)),[T(F_2STR,[-0.8, 339.2, 2.0, 1.0]), T(F_2STR,[0.8, 92.8, -3.0, 1.0]), T(F_2STR,[1.6, 31.599999999999994, -6.0, 1.0])],null)
+OS(P(p(94.0,27.0),p(108.0,31.0),p(136.0,30.0),p(192.0,24.0),p(304.0,23.0)),[T(F_2STR,[0.42857142857142855, 253.71428571428572, -49.0, -1.0]), T(F_2STR,[0.5714285714285714, 80.28571428571429, -56.0, -1.0])],null)
+OS(P(p(92.0,33.0),p(152.0,25.0),p(190.0,27.0),p(221.0,29.0),p(222.0,28.0),p(223.0,27.0),p(224.0,26.0)),[T(F_2STR,[-2.0, 550.0, -60.0, -1.0])],null)
+OS(P(p(110.0,30.0),p(112.0,29.0),p(118.0,20.0),p(120.0,28.0),p(150.0,14.0),p(150.0,29.0),p(152.0,13.0),p(166.0,18.0),p(172.0,32.0),p(182.0,22.0),p(200.0,17.0),p(216.0,25.0),p(256.0,32.0),p(270.0,20.0),p(280.0,24.0),p(296.0,25.0),p(310.0,24.0),p(318.0,22.0),p(336.0,18.0),p(342.0,22.0),p(342.0,31.0),p(381.0,27.0),p(382.0,26.0),p(383.0,25.0)),[],null)
+
+
+Coverage: 187
+Dataset size: 187
+Uncompressed length: 374
+Encoding length: 266
+Compression factor: 1.406015037593985
+Running time in milliseconds: 12615387
+Encoding length without residual point set: 218
+Number of residual points: 24
+Percentage of residual points: 12.83%
+Compression factor without residual point set: 1.4954128440366972
+Number of occurrence sets: 9
+
+
+
+Log:
+              0 ms              0 ms  computeMaximalTransformablePatterns starts
+         354407 ms         354407 ms  computeMaximalTransformablePatterns ends
+         456090 ms         101683 ms  computeSizeMTPSetArray ends
+         480452 ms          24362 ms  mergeMTPs ends
+       10920170 ms       10439718 ms  computeSuperMTPs ends
+       10996366 ms          76196 ms  computeHeterogeneousOccurrenceSets ends
+       12225609 ms        1229243 ms  removeDuplicateOccurrenceSets ends
+       12604193 ms         378584 ms  removeRedundantTransformations ends
+       12604277 ms             84 ms  removeOccurrenceSetsWithEmptyTransformationSets ends
+       12604305 ms             28 ms  removeOccurrenceSetsWithEmptyTransformationSets ends
+       12613865 ms           9560 ms  computeSortedOccurrenceSets ends
+       12615386 ms           1521 ms  computeEncoding ends
+       12615387 ms              1 ms  Program ends
+
+
+Number of points: 187
+Number of OSs after removal: 220230
+
+
+Parameter settings:
+===================
+Input file path (-i): /Users/susanne/Repos/data/BachJS/DieKunstDerFuge/ContrapunctusVI/Lilypond/score-from-midi-200.opnd
+Query file path (-q): null
+Ground-truth file path (-gt): null
+Mid-time point (-mt): false
+Output directory (-o): /Users/susanne/Repos/data/BachJS/DieKunstDerFuge/ContrapunctusVI/Lilypond
+Minimum pattern size (-min): 0
+Minimum occurrence set compactness (-minc): 0.0
+Minimum occurrence compactness (-minoc): 0.0
+Morphetic pitch (-d): true
+Transformation classes (-tc): {TC(3,F_2STR)}
+Dimension mask (-dm): 1100
+Use ScaleXIA (-scal): false
+Draw patterns (-draw): true
+Draw ground truth (-drawgt): false
+Draw bounding boxes around patterns (-drawbb): false
+

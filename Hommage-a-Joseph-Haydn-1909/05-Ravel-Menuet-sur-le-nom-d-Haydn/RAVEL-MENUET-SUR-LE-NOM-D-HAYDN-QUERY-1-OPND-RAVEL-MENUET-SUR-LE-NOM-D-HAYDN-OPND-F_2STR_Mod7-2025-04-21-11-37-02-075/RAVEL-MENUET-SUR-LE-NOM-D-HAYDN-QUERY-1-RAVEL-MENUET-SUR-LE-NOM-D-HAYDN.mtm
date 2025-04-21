@@ -1,0 +1,57 @@
+OS(P(p(0,1),p(4,0),p(6,3),p(8,3),p(10,6)),[T(F_2STR_Mod7,[-50.0, 560.0, 1.0, -1.0]), T(F_2STR_Mod7,[-36.0, 466.0, 5.0, 1.0]), T(F_2STR_Mod7,[-32.0, 362.0, 2.0, 1.0]), T(F_2STR_Mod7,[-31.0, 441.0, 5.0, 1.0]), T(F_2STR_Mod7,[-26.0, 508.0, 0.0, 1.0]), T(F_2STR_Mod7,[-24.0, 274.0, 3.0, -1.0]), T(F_2STR_Mod7,[-20.0, 658.0, 0.0, 1.0]), T(F_2STR_Mod7,[-16.0, 658.0, 4.0, 1.0]), T(F_2STR_Mod7,[-14.0, 356.0, 1.0, 1.0]), T(F_2STR_Mod7,[-13.0, 245.0, 1.0, 1.0]), T(F_2STR_Mod7,[-12.0, 502.0, 4.0, 1.0]), T(F_2STR_Mod7,[-12.0, 542.0, 4.0, -1.0]), T(F_2STR_Mod7,[-6.0, 112.0, 0.0, -1.0]), T(F_2STR_Mod7,[-6.0, 526.0, 1.0, 1.0]), T(F_2STR_Mod7,[-6.0, 538.0, 0.0, -1.0]), T(F_2STR_Mod7,[-2.0, 316.0, 5.0, -1.0]), T(F_2STR_Mod7,[-2.0, 340.0, 0.0, 1.0]), T(F_2STR_Mod7,[-2.0, 364.0, 0.0, 1.0]), T(F_2STR_Mod7,[-2.0, 388.0, 0.0, 1.0]), T(F_2STR_Mod7,[-2.0, 512.0, 5.0, -1.0]), T(F_2STR_Mod7,[0.0, 54.0, 2.0, 1.0]), T(F_2STR_Mod7,[0.0, 66.0, 2.0, 1.0]), T(F_2STR_Mod7,[0.0, 150.0, 2.0, 1.0]), T(F_2STR_Mod7,[0.0, 162.0, 2.0, 1.0]), T(F_2STR_Mod7,[0.0, 484.0, 3.0, 1.0]), T(F_2STR_Mod7,[0.0, 558.0, 0.0, -1.0]), T(F_2STR_Mod7,[0.0, 558.0, 0.0, 1.0]), T(F_2STR_Mod7,[0.0, 558.0, 1.0, -1.0]), T(F_2STR_Mod7,[0.0, 558.0, 3.0, -1.0]), T(F_2STR_Mod7,[0.0, 558.0, 4.0, 1.0]), T(F_2STR_Mod7,[0.0, 558.0, 5.0, 1.0]), T(F_2STR_Mod7,[0.0, 570.0, 0.0, -1.0]), T(F_2STR_Mod7,[0.0, 570.0, 0.0, 1.0]), T(F_2STR_Mod7,[0.0, 570.0, 1.0, -1.0]), T(F_2STR_Mod7,[0.0, 570.0, 3.0, -1.0]), T(F_2STR_Mod7,[0.0, 570.0, 4.0, 1.0]), T(F_2STR_Mod7,[0.0, 570.0, 5.0, 1.0]), T(F_2STR_Mod7,[2.0, 0.0, 0.0, 1.0]), T(F_2STR_Mod7,[2.0, 96.0, 0.0, 1.0]), T(F_2STR_Mod7,[2.0, 380.0, 5.0, -1.0]), T(F_2STR_Mod7,[2.0, 480.0, 3.0, 1.0]), T(F_2STR_Mod7,[2.0, 504.0, 0.0, 1.0]), T(F_2STR_Mod7,[8.0, 474.0, 2.0, 1.0]), T(F_2STR_Mod7,[10.0, 64.0, 2.0, -1.0]), T(F_2STR_Mod7,[10.0, 452.0, 0.0, 1.0]), T(F_2STR_Mod7,[12.0, 30.0, 2.0, 1.0]), T(F_2STR_Mod7,[12.0, 34.0, 3.0, 1.0]), T(F_2STR_Mod7,[12.0, 462.0, 3.0, 1.0]), T(F_2STR_Mod7,[20.0, 338.0, 6.0, 1.0]), T(F_2STR_Mod7,[40.0, 74.0, 4.0, -1.0]), T(F_2STR_Mod7,[42.0, 16.0, 3.0, 1.0]), T(F_2STR_Mod7,[48.0, -38.0, 5.0, -1.0]), T(F_2STR_Mod7,[56.0, -102.0, 0.0, 1.0])],null)
+
+
+Coverage: 161
+Dataset size: 506
+Uncompressed length: 322
+Encoding length: 222
+Compression factor: 1.4504504504504505
+Running time in milliseconds: 4072
+Encoding length without residual point set: 222
+Number of residual points: 0
+Percentage of residual points: 0.00%
+Compression factor without residual point set: 1.4504504504504505
+Number of occurrence sets: 1
+
+
+
+Log:
+              0 ms              0 ms  computeMaximalTransformablePatterns starts
+           3793 ms           3793 ms  computeMaximalTransformablePatterns ends
+           3795 ms              2 ms  computeSizeMTPSetArray ends
+           3800 ms              5 ms  mergeMTPs ends
+           3800 ms              0 ms  computeSuperMTPs ends
+           3800 ms              0 ms  computeHeterogeneousOccurrenceSets ends
+           4069 ms            269 ms  removeDuplicateOccurrenceSets ends
+           4069 ms              0 ms  removeRedundantTransformations ends
+           4069 ms              0 ms  removeOccurrenceSetsWithEmptyTransformationSets ends
+           4070 ms              1 ms  removeOccurrenceSetsWithEmptyTransformationSets ends
+           4070 ms              0 ms  computeSortedOccurrenceSets ends
+           4072 ms              2 ms  computeEncoding ends
+           4072 ms              0 ms  Program ends
+
+
+Number of points: 506
+Number of OSs after removal: 1
+
+
+Parameter settings:
+===================
+Input file path (-i): /Users/susanne/Repos/data/Hommage-a-Joseph-Haydn-1909/05-Ravel-Menuet-sur-le-nom-d-Haydn/RAVEL-MENUET-SUR-LE-NOM-D-HAYDN.OPND
+Query file path (-q): /Users/susanne/Repos/data/Hommage-a-Joseph-Haydn-1909/05-Ravel-Menuet-sur-le-nom-d-Haydn/RAVEL-MENUET-SUR-LE-NOM-D-HAYDN-QUERY-1.OPND
+Ground-truth file path (-gt): null
+Mid-time point (-mt): true
+Output directory (-o): /Users/susanne/Repos/data/Hommage-a-Joseph-Haydn-1909/05-Ravel-Menuet-sur-le-nom-d-Haydn
+Minimum pattern size (-min): 5
+Minimum occurrence set compactness (-minc): 0.0
+Minimum occurrence compactness (-minoc): 0.0
+Morphetic pitch (-d): false
+Transformation classes (-tc): {TC(6,F_2STR_Mod7)}
+Dimension mask (-dm): 1100
+Use ScaleXIA (-scal): false
+Draw patterns (-draw): true
+Draw ground truth (-drawgt): false
+Draw bounding boxes around patterns (-drawbb): false
+Use chroma (-c): false
+Use morph (-m): true
+

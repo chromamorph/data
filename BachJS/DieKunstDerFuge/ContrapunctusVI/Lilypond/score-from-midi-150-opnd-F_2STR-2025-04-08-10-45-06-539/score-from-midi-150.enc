@@ -1,0 +1,61 @@
+OS(P(p(0.0,17.0),p(16.0,21.0),p(28.0,20.0),p(32.0,19.0),p(44.0,18.0),p(48.0,17.0),p(64.0,16.0),p(80.0,17.0)),[T(F_2STR,[0.5, 32.0, -52.0, -1.0]), T(F_2STR,[0.5, 80.0, 7.0, 1.0]), T(F_2STR,[1.0, 224.0, 11.0, 1.0])],null)
+OS(P(p(56.0,35.0),p(72.0,35.0),p(78.0,34.0),p(80.0,33.0),p(90.0,32.0),p(92.0,33.0),p(94.0,34.0),p(96.0,35.0)),[T(F_2STR,[1.0, 48.0, -59.0, -1.0]), T(F_2STR,[1.0, 80.0, -65.0, -1.0]), T(F_2STR,[1.0, 160.0, -10.0, 1.0])],null)
+OS(P(p(44.0,18.0),p(48.0,17.0),p(80.0,17.0),p(92.0,18.0),p(96.0,19.0)),[T(F_2STR,[-0.5, 182.0, -29.0, -1.0]), T(F_2STR,[-0.5, 198.0, -48.0, -1.0]), T(F_2STR,[-0.5, 214.0, -37.0, -1.0]), T(F_2STR,[0.5, 32.0, -52.0, -1.0]), T(F_2STR,[0.5, 80.0, 7.0, 1.0]), T(F_2STR,[0.5, 160.0, 4.0, 1.0]), T(F_2STR,[0.5, 192.0, -47.0, -1.0]), T(F_2STR,[0.5, 192.0, -42.0, -1.0])],null)
+OS(P(p(96.0,26.0),p(102.0,25.0),p(106.0,32.0),p(108.0,31.0),p(120.0,24.0),p(126.0,18.0),p(128.0,17.0)),[T(F_2STR,[4.0, -226.0, 0.0, 1.0]), T(F_2STR,[4.0, -224.0, 1.0, 1.0])],null)
+OS(P(p(96.0,35.0),p(102.0,34.0),p(104.0,33.0),p(118.0,20.0),p(120.0,19.0),p(150.0,14.0),p(152.0,13.0),p(176.0,21.0),p(222.0,28.0),p(254.0,24.0)),[T(F_2STR,[1.0, 40.0, -46.0, -1.0])],null)
+OS(P(p(120.0,24.0),p(120.0,28.0),p(264.0,21.0),p(300.0,18.0)),[T(F_2STR,[-0.9444444444444444, 417.3333333333333, -47.0, -1.0]), T(F_2STR,[-0.05555555555555555, 206.66666666666666, -45.0, -1.0])],null)
+OS(P(p(110.0,30.0),p(112.0,29.0),p(152.0,25.0),p(184.0,31.0),p(192.0,28.0),p(208.0,21.0),p(221.0,29.0),p(223.0,27.0),p(224.0,26.0),p(230.0,31.0),p(246.0,35.0),p(248.0,34.0),p(254.0,33.0),p(256.0,32.0),p(270.0,20.0),p(272.0,19.0),p(280.0,24.0),p(296.0,25.0),p(302.0,24.0)),[],null)
+
+
+Coverage: 142
+Dataset size: 142
+Uncompressed length: 284
+Encoding length: 198
+Compression factor: 1.4343434343434343
+Running time in milliseconds: 1101624
+Encoding length without residual point set: 160
+Number of residual points: 19
+Percentage of residual points: 13.38%
+Compression factor without residual point set: 1.5375
+Number of occurrence sets: 7
+
+
+
+Log:
+              0 ms              0 ms  computeMaximalTransformablePatterns starts
+          99599 ms          99599 ms  computeMaximalTransformablePatterns ends
+         133444 ms          33845 ms  computeSizeMTPSetArray ends
+         140628 ms           7184 ms  mergeMTPs ends
+         814023 ms         673395 ms  computeSuperMTPs ends
+         824305 ms          10282 ms  computeHeterogeneousOccurrenceSets ends
+        1073986 ms         249681 ms  removeDuplicateOccurrenceSets ends
+        1099984 ms          25998 ms  removeRedundantTransformations ends
+        1100012 ms             28 ms  removeOccurrenceSetsWithEmptyTransformationSets ends
+        1100023 ms             11 ms  removeOccurrenceSetsWithEmptyTransformationSets ends
+        1101060 ms           1037 ms  computeSortedOccurrenceSets ends
+        1101624 ms            564 ms  computeEncoding ends
+        1101624 ms              0 ms  Program ends
+
+
+Number of points: 142
+Number of OSs after removal: 82068
+
+
+Parameter settings:
+===================
+Input file path (-i): /Users/susanne/Repos/data/BachJS/DieKunstDerFuge/ContrapunctusVI/Lilypond/score-from-midi-150.opnd
+Query file path (-q): null
+Ground-truth file path (-gt): null
+Mid-time point (-mt): false
+Output directory (-o): /Users/susanne/Repos/data/BachJS/DieKunstDerFuge/ContrapunctusVI/Lilypond
+Minimum pattern size (-min): 0
+Minimum occurrence set compactness (-minc): 0.0
+Minimum occurrence compactness (-minoc): 0.0
+Morphetic pitch (-d): true
+Transformation classes (-tc): {TC(3,F_2STR)}
+Dimension mask (-dm): 1100
+Use ScaleXIA (-scal): false
+Draw patterns (-draw): true
+Draw ground truth (-drawgt): false
+Draw bounding boxes around patterns (-drawbb): true
+
